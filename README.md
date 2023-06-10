@@ -5,7 +5,7 @@
 # Features
 - 사용자 인증/인가
 - 게시판 Pagination
-- WSYIWYG 에디터를 사용하 게시글 업로드
+- WSYIWYG 에디터를 사용한 게시글 업로드
 - 첨부파일 업로드
 - Kakao Map 기반 위치지정, 공유
 - 댓글기능
